@@ -29,4 +29,4 @@ Before adding work to this repository, ask:
 1. Does this help complete the Weldon project?
 2. Will it provide value during this move?
 3. If yes, add it here.
-4. Otherwise, it belongs in the private HomeOps product repository.
+4. Otherwise, it belongs in a separate private repository, not here.

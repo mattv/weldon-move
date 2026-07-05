@@ -22,6 +22,7 @@ Labels are grouped: **Area** (🏠 Parkmeadow, 🚜 Weldon, 📦 Moving, …),
 ## Board columns
 📥 Inbox → 🎯 Ready → 🚧 Working → ⏳ Waiting → 👀 Review → ✅ Finished
 
-## Repo boundary
-Anything invented (product/SaaS/strategy) → **private HomeOps repo**.
-Anything proven in this real move → stays here.
+## Scope of this repo
+Keep this repo focused on **executing the move**. Strategy, ideas, and anything
+not required to complete the Weldon move belong in a separate private
+repository — keep them out of this public repo.

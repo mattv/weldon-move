@@ -10,6 +10,7 @@ Read these in order:
 3. `WORKING_AGREEMENTS.md` — how we work and what to build
 4. `NEXT_STEPS.md` — the immediate priorities
 
-> This is the **public** execution repo. Keep sensitive detail (financials,
-> the contract, private contact info, medical specifics) out of it. Product/
-> business strategy belongs in the private HomeOps repo.
+> This is a **public** repo. Keep sensitive detail out of it — financials,
+> the contract, private contact info, and medical specifics. Broader strategy,
+> ideas, and anything not needed to execute this move belong in a separate
+> private repository, not here.
