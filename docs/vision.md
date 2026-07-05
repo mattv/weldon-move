@@ -2,50 +2,31 @@
 
 ## Purpose
 
-This repository exists to help Matt and Angel successfully navigate one of the largest projects of their lives: purchasing the Weldon property, selling Parkmeadow, recovering from surgery, and moving with as little stress and as much confidence as possible.
+This repository exists to help Matt and Angel successfully navigate the purchase of the Weldon property, prepare Parkmeadow for sale, complete the move, and settle into their new home with as little stress and uncertainty as possible.
 
-The first goal is not to build software. The first goal is to build the best system possible for this move.
+This repository is the execution center for the project.
 
 ## Guiding Principles
 
-- Solve today's problems first.
-- Capture everything that works.
-- Automate repetitive work where it provides real value.
-- Make decisions using facts, timelines, and budgets.
-- Reduce stress by creating clarity.
-
-## Long-Term Vision
-
-If this system proves invaluable during the Weldon move, it can evolve into a reusable platform that helps other homeowners manage the entire home buying, selling, and moving journey.
-
-Working name: MoveOps (internal).
-
-Potential future capabilities:
-- AI-assisted contract review
-- Inspection report analysis
-- Repair negotiation guidance
-- Timeline and budget management
-- Realtor, lender, inspector, cleaner, and mover collaboration
-- Home maintenance after move-in
+- Focus on completing today's highest-value work.
+- Organize information so decisions are easy to make.
+- Reduce stress through planning and visibility.
+- Capture decisions and lessons learned for this project.
+- Keep all project documentation in one place.
 
 ## Success Criteria
 
-### Phase 1
-Successfully complete the Weldon purchase and Parkmeadow sale while keeping stress manageable and ensuring Angel can focus on recovery.
-
-### Phase 2
-Document lessons learned and identify repeatable workflows.
-
-### Phase 3
-Evaluate whether those workflows justify building a commercial product.
+- Successfully complete inspections and due diligence.
+- Sell Parkmeadow quickly at the best practical price.
+- Complete the move safely and efficiently.
+- Allow Angel to focus on recovery while the project continues.
+- Arrive at Weldon organized and ready to begin the next chapter.
 
 ## Decision Filter
 
-When deciding what to build next, ask:
+Before adding work to this repository, ask:
 
-1. Does this make the Weldon move easier?
-2. Will we use it within the next two weeks?
-3. If yes, build it now.
-4. If not, add it to the product backlog and keep moving.
-
-The repository should remain a practical execution tool first and an incubator for a future product second.
+1. Does this help complete the Weldon project?
+2. Will it provide value during this move?
+3. If yes, add it here.
+4. Otherwise, it belongs in the private HomeOps product repository.
