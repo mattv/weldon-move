@@ -1,0 +1,15 @@
+# --- Sensitive documents: never commit ---
+# Source documents containing PII/financial data live in a controlled store
+# outside git, not in this repo. This folder and any sensitive-docs folder
+# are ignored so they can never be committed accidentally.
+docs/weldon-pre-purchase-docs/
+**/sensitive/
+**/*private-docs*/
+
+# Common sensitive source-document types (defense in depth)
+*.pdf
+*.xlsx
+*.docx
+
+# Windows / WSL metadata clutter
+*:Zone.Identifier
